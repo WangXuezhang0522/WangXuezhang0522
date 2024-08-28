@@ -20,14 +20,14 @@
 <code><img height="30" src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"></code>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 关于我... 
-- 掘金主页:https://juejin.cn/user/442430126559470
+- 掘金主页:[-->传送门<--](https://juejin.cn/user/442430126559470)
 - 邮箱地址:2814289212@qq.com
 - 联系我:......
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true" width="50"> 我的项目:
-- <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" width="30"> AI驱动的社团系统
-- <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif?raw=true" width="30"> E-Doc虚拟医生小程序
-- <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/nyancat.gif" width="30"> 宠物管理系统
+- <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" width="30"> [AI驱动的社团系统](https://github.com/WangXuezhang0522/community-wechat-mini-program)
+- <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif?raw=true" width="30"> [E-Doc虚拟医生小程序](#)
+- <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/nyancat.gif" width="30"> [宠物管理系统](#)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangXuezhang0522&layout=compact&theme=tokyonight)
