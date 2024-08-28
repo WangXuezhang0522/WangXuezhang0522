@@ -22,7 +22,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 关于我... 
 - 掘金主页:[-->传送门<--](https://juejin.cn/user/442430126559470)
 - 邮箱地址:2814289212@qq.com
-- 联系我:  <a href="https://github.com/WangXuezhang0522/picture-Repository/blob/main/image/WechatIMG123.jpg?raw=true">-->看这里<--</a>
+- 联系我:  <a href="https://github.com/WangXuezhang0522/image/blob/main/%E5%9B%BE%E5%BA%8A/WechatIMG123.jpg?raw=true">-->看这里<--</a>
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true" width="50"> 我的项目:
 - <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" width="30"> [AI驱动的社团系统](https://github.com/WangXuezhang0522/community-wechat-mini-program)
