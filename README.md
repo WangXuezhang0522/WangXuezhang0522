@@ -26,7 +26,7 @@
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true" width="50"> 我的项目:
 - <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" width="30"> [AI驱动的社团系统](https://github.com/WangXuezhang0522/community-wechat-mini-program)
-- <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif?raw=true" width="30"> [E-Doc虚拟医生小程序](#)
+- <img src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif?raw=true" width="30"> [E-Doc虚拟医生小程序](https://github.com/WangXuezhang0522/E-Doc)
 - <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/nyancat.gif" width="30"> [宠物管理系统](#)
 
 ---
