@@ -1,7 +1,7 @@
 <h2> <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="50">OH~, 是王学长呀! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://raw.githubusercontent.com/deut-erium/deut-erium/master/assets/gandalf_parrot.gif" width="230">
-<p><em> 努力成为全栈Coder<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>高级系统架构师在考<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> 努力成为全栈Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>高级系统架构师在考<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <br/>
 </em></p>
 
